@@ -1,0 +1,11 @@
+/Users/wuxiancheng/LINQPractice/bin/Debug/netcoreapp2.2/LINQPractice.deps.json
+/Users/wuxiancheng/LINQPractice/bin/Debug/netcoreapp2.2/LINQPractice.runtimeconfig.json
+/Users/wuxiancheng/LINQPractice/bin/Debug/netcoreapp2.2/LINQPractice.runtimeconfig.dev.json
+/Users/wuxiancheng/LINQPractice/bin/Debug/netcoreapp2.2/LINQPractice.dll
+/Users/wuxiancheng/LINQPractice/bin/Debug/netcoreapp2.2/LINQPractice.pdb
+/Users/wuxiancheng/LINQPractice/obj/Debug/netcoreapp2.2/LINQPractice.csprojAssemblyReference.cache
+/Users/wuxiancheng/LINQPractice/obj/Debug/netcoreapp2.2/LINQPractice.csproj.CoreCompileInputs.cache
+/Users/wuxiancheng/LINQPractice/obj/Debug/netcoreapp2.2/LINQPractice.AssemblyInfoInputs.cache
+/Users/wuxiancheng/LINQPractice/obj/Debug/netcoreapp2.2/LINQPractice.AssemblyInfo.cs
+/Users/wuxiancheng/LINQPractice/obj/Debug/netcoreapp2.2/LINQPractice.dll
+/Users/wuxiancheng/LINQPractice/obj/Debug/netcoreapp2.2/LINQPractice.pdb
